@@ -1,0 +1,9 @@
+{
+	"name": "ADF-prakk-demo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97c4295f-9da7-4419-9ef3-ee00cc100cd6",
+		"tenantId": "8e566c61-9e9e-4fc0-a3ba-54a2f9e94863"
+	}
+}
